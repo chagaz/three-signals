@@ -60,3 +60,14 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Temporary files
+*~
+
+# Data repositories
+data
+limma-test
+
+# Outputs
+*.pdf
+*.png
